@@ -1,3 +1,7 @@
+:root {
+  --var-one: red;
+}
+
 html{
   font-size: 62.5%;
 }
